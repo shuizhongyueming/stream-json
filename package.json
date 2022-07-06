@@ -1,5 +1,5 @@
 {
-  "name": "stream-json",
+  "name": "@shuizhongyueming/stream-json",
   "version": "1.7.3",
   "description": "stream-json is the micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individual primitives using a SAX-inspired API. Includes utilities to stream JSON database dumps.",
   "homepage": "http://github.com/uhop/stream-json",
@@ -19,10 +19,7 @@
     "debug": "node --inspect-brk tests/tests.js"
   },
   "github": "http://github.com/uhop/stream-json",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/uhop/stream-json.git"
-  },
+  "repository": "https://github.com/shuizhongyueming/stream-json.git",
   "keywords": [
     "scanner",
     "lexer",
